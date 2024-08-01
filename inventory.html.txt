@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Dealership</title>
+    <title>Inventory - Car Dealership</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Car Dealership</h1>
+        <h1>Our Inventory</h1>
         <nav>
             <a href="index.html">Home</a>
             <a href="inventory.html">Inventory</a>
@@ -17,7 +17,7 @@
     </header>
     <main>
         <section>
-            <h2>Featured Cars</h2>
+            <h2>Available Cars</h2>
             <div class="car">
                 <img src="car1.jpg" alt="Car 1">
                 <h3>Model S</h3>
@@ -30,6 +30,7 @@
                 <p>Price: $90,000</p>
                 <p>Our luxury SUV with outstanding performance.</p>
             </div>
+            <!-- Add more cars as needed -->
         </section>
     </main>
     <footer>
